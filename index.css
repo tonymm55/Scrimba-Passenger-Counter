@@ -3,7 +3,7 @@ body {
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    height: 100vh;
+    height: 10vh;
 }
 
 .container {
@@ -15,12 +15,13 @@ body {
 }
 
 h1 {
+    font-size: 40px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 h2 {
-    font-size: 50px;
+    font-size: 100px;
     margin-top: 0;
     margin-bottom: 20px;
 }
@@ -30,8 +31,10 @@ button {
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
+    font-size: 2rem;
     font-weight: bold;
-    width: 10em;
+    width: 20rem;
+    height: 5rem;
     margin-bottom: 5px;
     border-radius: 5px;
 }
